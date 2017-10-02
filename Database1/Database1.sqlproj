@@ -204,4 +204,10 @@
   <ItemGroup>
     <None Include="Post-Deployment\01_Finalize_Deployment.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\0001_20171002-1406_neil.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\0002_20171002-1407_neil.sql" />
+  </ItemGroup>
 </Project>
